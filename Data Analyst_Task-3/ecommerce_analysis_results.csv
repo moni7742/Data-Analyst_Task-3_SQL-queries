@@ -1,0 +1,9 @@
+user_id,name,email,order_id,total_amount
+1,Alice Johnson,alice@example.com,101,150.0
+1,Alice Johnson,alice@example.com,102,45.5
+1,Alice Johnson,alice@example.com,105,120.0
+2,Bob Smith,bob@example.com,103,200.0
+2,Bob Smith,bob@example.com,106,310.0
+3,Charlie Brown,charlie@example.com,104,89.99
+4,David Miller,david@example.com,,
+5,Eva Green,,,
